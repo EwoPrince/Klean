@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\AT0M\\Documents\\Flutter project\\klean\\build\\path_provider_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\AT0M\\.gradle\\caches\\transforms-2\\files-2.1\\bd2d6ce25360cf73142ba6c752620682\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\AT0M\\Documents\\Flutter project\\klean\\build\\path_provider_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\AT0M\\.gradle\\caches\\transforms-2\\files-2.1\\bd2d6ce25360cf73142ba6c752620682\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\AT0M\\Documents\\Flutter project\\klean\\build\\path_provider_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\AT0M\\.gradle\\caches\\transforms-2\\files-2.1\\bd2d6ce25360cf73142ba6c752620682\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\AT0M\\Documents\\Flutter project\\klean\\build\\path_provider_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\AT0M\\.gradle\\caches\\transforms-2\\files-2.1\\bd2d6ce25360cf73142ba6c752620682\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\AT0M\\Documents\\Flutter project\\klean\\build\\path_provider_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\AT0M\\.gradle\\caches\\transforms-2\\files-2.1\\bd2d6ce25360cf73142ba6c752620682\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

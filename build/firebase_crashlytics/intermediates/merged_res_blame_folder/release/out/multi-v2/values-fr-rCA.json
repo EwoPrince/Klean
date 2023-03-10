@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\AT0M\\Documents\\Flutter project\\klean\\build\\firebase_crashlytics\\intermediates\\res\\merged\\release\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\AT0M\\.gradle\\caches\\transforms-2\\files-2.1\\6e9aa07d5a30256c3ec9ea9fb8abd3c4\\jetified-play-services-basement-18.0.0\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "156",
+                        "endOffsets": "355"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "160",
+                        "endOffsets": "211"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\AT0M\\.gradle\\caches\\transforms-2\\files-2.1\\bd2d6ce25360cf73142ba6c752620682\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "216",
+                        "endColumns": "100",
+                        "endOffsets": "312"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\AT0M\\Documents\\Flutter project\\klean\\build\\firebase_crashlytics\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\AT0M\\.gradle\\caches\\transforms-2\\files-2.1\\6e9aa07d5a30256c3ec9ea9fb8abd3c4\\jetified-play-services-basement-18.0.0\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "156",
+                        "endOffsets": "355"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "160",
+                        "endOffsets": "211"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\AT0M\\.gradle\\caches\\transforms-2\\files-2.1\\bd2d6ce25360cf73142ba6c752620682\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "216",
+                        "endColumns": "100",
+                        "endOffsets": "312"
+                    }
+                }
+            ]
+        }
+    ]
+}

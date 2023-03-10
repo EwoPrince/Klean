@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "353278305299",
+    "project_id": "klean-b7457",
+    "storage_bucket": "klean-b7457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353278305299:android:60b4b3dff697af4ac08be6",
+        "android_client_info": {
+          "package_name": "com.ewoindustry.klean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353278305299-1cumnpod1q1lq4l40bn9re9m9ng1rvae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBKRWADeqtIfOpIP3E28ctfEXJBQootU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353278305299-1cumnpod1q1lq4l40bn9re9m9ng1rvae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353278305299-acr3e3klda5b55qr06tsb8j23f8uhbet.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ewoindustry.klean"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

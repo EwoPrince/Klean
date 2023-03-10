@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ewoindustry/klean/BuildConfig.java
+ com.ewoindustry.klean.BuildConfig
